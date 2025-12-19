@@ -26,4 +26,4 @@ Testing Framework:
 1. Jest //Testing
 
 Deployment Platform:
-1. AWS //S3bucket,ec2,amplify
+1. AWS (S3, EC2, Amplify)
